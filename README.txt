@@ -10,4 +10,4 @@ Kada smo dodali nove fajlove:
 6) Kliknemo Commit
 7) Kliknemo Push
 
-Konacno, provjerimo na https://github.com/matejpizza/python_tecaj/tree/main da li je sve okej odnosno da li je vidljivo na githubu
+Konacno, provjerimo na https://github.com/matejpizza/python_tecaj/tree/main da li je sve okej odnosno da li je vidljivo na githubu.
