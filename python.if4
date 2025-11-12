@@ -1,0 +1,37 @@
+dob = int(input("Koliko imaš godina"))
+
+if dob < 7:
+    print ("Besplatan ulaz")
+elif 7 <= dob <= 17:
+    print ("Dječja karta!")
+else:
+    print ("odrasla karta")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    Napiši program koji provjerava dob za kino
+# Program pita korisnika za dob.
+# Ako je manja od 7 → "Besplatan ulaz"
+# Ako je između 7 i 17 → "Dječja karta"
+# Ako je 18 ili više → "Odrasla karta"
