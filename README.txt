@@ -2,7 +2,7 @@
 
 Kada smo dodali nove fajlove:
 
-1) Desni klik -> Open Git GUI here
+1) Desni klik -> Show more options -> Open Git GUI here
 2) Pojavit ce nam se Git GUI. U kvadraticu "unstaged changes" imamo promjene koje moramo dodati
 3) Kliknemo na File koji zelimo dodati i pritisnemo "CTRL + t" ili u gornjem meniju Commit -> Stage to commit
 4) Sada nam se file pojavio u Staged changes kvadraticu
