@@ -1,0 +1,10 @@
+a = 4
+b = 2
+c = 3
+
+if a == 4:
+    print ("a je 4!")
+elif a == 3:
+    print ("a je 3!")
+else:
+    print ("a je 2")

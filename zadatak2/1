@@ -1,0 +1,13 @@
+ocjena = int(input("Koju si ocjenu dobio?"))
+
+if ocjena == 1:
+    print ("nedovoljan")
+elif ocjena == 2:
+    print ("dovoljan")
+elif ocjena == 3:
+    print ("dobar")
+elif ocjena == 4:
+    print ("vrlo dobar")
+elif ocjena == 5:
+    print ("odličan")
+
